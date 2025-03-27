@@ -1,4 +1,4 @@
-## @kodik/ui
+## @kodikteam/ui
 
 **A lightweight React component library** built with 💜 using Tailwind CSS.  
 Created with love by an Armenian developer in Greece — for the global dev community and especially for the
@@ -18,13 +18,13 @@ Russian-speaking world. 😊🇦🇲🇬🇷
 ### 📦 Installation
 
 ```bash
-npm install @kodik/ui
+npm install @kodikteam/ui
 ```
 
 or
 
 ```bash
-yarn add @kodik/ui
+yarn add @kodikteam/ui
 ```
 
 ---
@@ -32,7 +32,7 @@ yarn add @kodik/ui
 ### 🧪 Usage
 
 ```tsx
-import {Button, Modal, Checkbox} from "@kodik/ui";
+import {Button, Modal, Checkbox} from "@kodikteam/ui";
 
 <Button label="Click me" variant="primary"/>;
 ```
