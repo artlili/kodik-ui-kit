@@ -11,7 +11,7 @@ Russian-speaking world. 😊🇦🇲🇬🇷
 - ⚛️ Fully compatible with React 18 & 19
 - 📦 Lightweight & tree-shakable
 - 🧩 Easily composable & customizable
-- 🧪 Interactive examples in [Storybook](https://e-zoo-ui-docs.vercel.app/)
+- 🧪 Interactive examples in [Storybook](https://kodik-ui-docs.vercel.app/)
 
 ---
 
