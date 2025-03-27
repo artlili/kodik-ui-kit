@@ -17,8 +17,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: path.resolve(__dirname, "src/index.ts"), // путь к корневому index
-      name: "EzooUiKit",
-      fileName: (format) => `ezoo-ui-kit.${format}.js`,
+      name: "KodikUiKit",
+      fileName: (format) => `kodik-ui-kit.${format}.js`,
     },
     rollupOptions: {
       // Внешние зависимости — не включаются в сборку

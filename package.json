@@ -1,12 +1,13 @@
 {
-  "name": "@kodik/ui-kit",
+  "name": "@kodikteam/ui-kit",
   "keywords": [
     "ui",
     "kit",
     "react",
     "tailwind",
     "storybook",
-    "kodik"
+    "kodik",
+    "kodikteam"
   ],
   "version": "1.0.0",
   "main": "dist/index.js",
