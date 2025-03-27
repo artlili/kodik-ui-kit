@@ -11,7 +11,7 @@ Russian-speaking world. 😊🇦🇲🇬🇷
 - ⚛️ Fully compatible with React 18 & 19
 - 📦 Lightweight & tree-shakable
 - 🧩 Easily composable & customizable
-- 🧪 Interactive examples in [Storybook](https://kodik-ui-docs.vercel.app/)
+- 🧪 Interactive examples in [Storybook](https://kodikteam-docs.vercel.app/)
 
 ---
 
@@ -42,7 +42,7 @@ import {Button, Modal, Checkbox} from "@kodikteam/ui";
 ### 📚 Documentation
 
 See all components and live examples here:  
-📖 [Storybook — @kodik/ui](https://e-zoo-ui-docs.vercel.app/)
+📖 [Storybook — @kodikteam/ui](https://kodikteam-docs.vercel.app/)
 
 ---
 

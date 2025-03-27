@@ -6,7 +6,6 @@
     "react",
     "tailwind",
     "storybook",
-    "kodik",
     "kodikteam"
   ],
   "version": "1.0.0",
